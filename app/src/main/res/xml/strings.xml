@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Consulta_CPF</string>
+    <string name="hint_seunome">Nome Completo</string>
+    <string name="hint_dataNasc">Data de Nascimento</string>
+    <string name="hint_cpf">CPF</string>
+    <string name="hint_email">E-mail</string>
+    <string name="txt_texto_dados">Insira os dados abaixo</string>
+    <string name="txt_entrar">Entrar</string>
+    <string name="txt_botao_cadastrar">CADASTRAR</string>
+    <string name="txt_botao_cadastro">CADASTRO</string>
+    <string name="txt_brasao">Todos os direitos reservados 2024 \n Ministério da Fazenda\n Secretaria da Receita Federal do Brasil</string>
+</resources>
